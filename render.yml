@@ -1,6 +1,6 @@
 databases:
   - name: omniauth-esa-sandbox_db
-    databaseName: omniauth_esa_sandbox_db_gh22
+    databaseName: omniauth_esa_sandbox_db_6xoh
     user: omniauth_esa_sandbox
     region: singapore
 
